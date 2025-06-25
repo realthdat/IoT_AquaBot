@@ -155,8 +155,17 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 ---
 
+
 ## ✅ Ghi Chú
 
 - Đảm bảo ESP32 có kết nối WiFi ổn định
 - Cảm biến đất nên được hiệu chỉnh theo loại đất thực tế
 - Có thể thay thế DHT11 bằng DHT22 để tăng độ chính xác
+
+---
+## 📸Demo
+<p align="center">
+  <img src="Images/UI_blynkapp.jpg" alt="UI Blynk App" height="800px" />
+  <img src="Images/esp32_model_assembly.jpg" alt="ESP32 Model Assembly" height="800px" />
+</p>
+
